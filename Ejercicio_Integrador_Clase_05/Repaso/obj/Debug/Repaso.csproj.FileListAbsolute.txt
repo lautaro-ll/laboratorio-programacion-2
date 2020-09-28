@@ -1,0 +1,11 @@
+C:\Users\Lautaro\source\repos\Repaso\Repaso\obj\Debug\Repaso.csprojAssemblyReference.cache
+C:\Users\Lautaro\source\repos\Repaso\Repaso\obj\Debug\Repaso.csproj.CoreCompileInputs.cache
+C:\Users\Lautaro\source\repos\Repaso\Repaso\bin\Debug\Repaso.exe.config
+C:\Users\Lautaro\source\repos\Repaso\Repaso\bin\Debug\Repaso.exe
+C:\Users\Lautaro\source\repos\Repaso\Repaso\bin\Debug\Repaso.pdb
+C:\Users\Lautaro\source\repos\Repaso\Repaso\bin\Debug\Biblioteca.dll
+C:\Users\Lautaro\source\repos\Repaso\Repaso\bin\Debug\Biblioteca.pdb
+C:\Users\Lautaro\source\repos\Repaso\Repaso\bin\Debug\Biblioteca.dll.config
+C:\Users\Lautaro\source\repos\Repaso\Repaso\obj\Debug\Repaso.csproj.CopyComplete
+C:\Users\Lautaro\source\repos\Repaso\Repaso\obj\Debug\Repaso.exe
+C:\Users\Lautaro\source\repos\Repaso\Repaso\obj\Debug\Repaso.pdb
