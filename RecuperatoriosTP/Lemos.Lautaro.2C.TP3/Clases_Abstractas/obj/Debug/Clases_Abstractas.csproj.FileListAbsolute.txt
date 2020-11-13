@@ -1,0 +1,9 @@
+C:\Users\Lautaro\source\repos\Lemos.Lautaro.2C.TP3\Clases_Abstractas\obj\Debug\Clases_Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\Lautaro\source\repos\Lemos.Lautaro.2C.TP3\Clases_Abstractas\bin\Debug\Clases_Abstractas.dll
+C:\Users\Lautaro\source\repos\Lemos.Lautaro.2C.TP3\Clases_Abstractas\bin\Debug\Clases_Abstractas.pdb
+C:\Users\Lautaro\source\repos\Lemos.Lautaro.2C.TP3\Clases_Abstractas\bin\Debug\Excepciones.dll
+C:\Users\Lautaro\source\repos\Lemos.Lautaro.2C.TP3\Clases_Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\Lautaro\source\repos\Lemos.Lautaro.2C.TP3\Clases_Abstractas\obj\Debug\Clases_Abstractas.csprojAssemblyReference.cache
+C:\Users\Lautaro\source\repos\Lemos.Lautaro.2C.TP3\Clases_Abstractas\obj\Debug\Clases_Abstractas.csproj.CopyComplete
+C:\Users\Lautaro\source\repos\Lemos.Lautaro.2C.TP3\Clases_Abstractas\obj\Debug\Clases_Abstractas.dll
+C:\Users\Lautaro\source\repos\Lemos.Lautaro.2C.TP3\Clases_Abstractas\obj\Debug\Clases_Abstractas.pdb
