@@ -14,3 +14,19 @@ C:\Users\Lautaro\source\repos\Lemos.Lautaro.2C.TP3\Lemos.Lautaro.2C.TP3\bin\Debu
 C:\Users\Lautaro\source\repos\Lemos.Lautaro.2C.TP3\Lemos.Lautaro.2C.TP3\obj\Debug\Lemos.Lautaro.2C.TP3.csproj.CopyComplete
 C:\Users\Lautaro\source\repos\Lemos.Lautaro.2C.TP3\Lemos.Lautaro.2C.TP3\obj\Debug\Lemos.Lautaro.2C.TP3.exe
 C:\Users\Lautaro\source\repos\Lemos.Lautaro.2C.TP3\Lemos.Lautaro.2C.TP3\obj\Debug\Lemos.Lautaro.2C.TP3.pdb
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP3\Lemos.Lautaro.2C.TP3\bin\Debug\Lemos.Lautaro.2C.TP3.exe.config
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP3\Lemos.Lautaro.2C.TP3\bin\Debug\Lemos.Lautaro.2C.TP3.exe
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP3\Lemos.Lautaro.2C.TP3\bin\Debug\Lemos.Lautaro.2C.TP3.pdb
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP3\Lemos.Lautaro.2C.TP3\bin\Debug\Archivos.dll
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP3\Lemos.Lautaro.2C.TP3\bin\Debug\Clases_Abstractas.dll
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP3\Lemos.Lautaro.2C.TP3\bin\Debug\Clases_Instanciables.dll
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP3\Lemos.Lautaro.2C.TP3\bin\Debug\Excepciones.dll
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP3\Lemos.Lautaro.2C.TP3\bin\Debug\Archivos.pdb
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP3\Lemos.Lautaro.2C.TP3\bin\Debug\Clases_Abstractas.pdb
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP3\Lemos.Lautaro.2C.TP3\bin\Debug\Clases_Instanciables.pdb
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP3\Lemos.Lautaro.2C.TP3\bin\Debug\Excepciones.pdb
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP3\Lemos.Lautaro.2C.TP3\obj\Debug\Lemos.Lautaro.2C.TP3.csprojAssemblyReference.cache
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP3\Lemos.Lautaro.2C.TP3\obj\Debug\Lemos.Lautaro.2C.TP3.csproj.CoreCompileInputs.cache
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP3\Lemos.Lautaro.2C.TP3\obj\Debug\Lemos.Lautaro.2C.TP3.csproj.CopyComplete
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP3\Lemos.Lautaro.2C.TP3\obj\Debug\Lemos.Lautaro.2C.TP3.exe
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP3\Lemos.Lautaro.2C.TP3\obj\Debug\Lemos.Lautaro.2C.TP3.pdb

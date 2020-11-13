@@ -11,3 +11,16 @@ C:\Users\Lautaro\source\repos\Lemos.Lautaro.2C.TP3\Clases_Instanciables\bin\Debu
 C:\Users\Lautaro\source\repos\Lemos.Lautaro.2C.TP3\Clases_Instanciables\obj\Debug\Clases_Instanciables.csproj.CopyComplete
 C:\Users\Lautaro\source\repos\Lemos.Lautaro.2C.TP3\Clases_Instanciables\obj\Debug\Clases_Instanciables.dll
 C:\Users\Lautaro\source\repos\Lemos.Lautaro.2C.TP3\Clases_Instanciables\obj\Debug\Clases_Instanciables.pdb
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP3\Clases_Instanciables\bin\Debug\Clases_Instanciables.dll
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP3\Clases_Instanciables\bin\Debug\Clases_Instanciables.pdb
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP3\Clases_Instanciables\bin\Debug\Archivos.dll
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP3\Clases_Instanciables\bin\Debug\Clases_Abstractas.dll
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP3\Clases_Instanciables\bin\Debug\Excepciones.dll
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP3\Clases_Instanciables\bin\Debug\Archivos.pdb
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP3\Clases_Instanciables\bin\Debug\Clases_Abstractas.pdb
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP3\Clases_Instanciables\bin\Debug\Excepciones.pdb
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP3\Clases_Instanciables\obj\Debug\Clases_Instanciables.csprojAssemblyReference.cache
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP3\Clases_Instanciables\obj\Debug\Clases_Instanciables.csproj.CoreCompileInputs.cache
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP3\Clases_Instanciables\obj\Debug\Clases_Instanciables.csproj.CopyComplete
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP3\Clases_Instanciables\obj\Debug\Clases_Instanciables.dll
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP3\Clases_Instanciables\obj\Debug\Clases_Instanciables.pdb

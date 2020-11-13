@@ -43,6 +43,8 @@ namespace EntidadesAbstractas
         {
             if ((dato > 0 && dato < 90000000 && nacionalidad == ENacionalidad.Argentino) || (dato >= 90000000 && dato <= 99999999 && nacionalidad == ENacionalidad.Extranjero))
                 return dato;
+            else if (dato < 0 || dato > 99999999)
+                throw new DniInvalidoException();
             else
                 throw new NacionalidadInvalidaException();
         }
@@ -51,7 +53,7 @@ namespace EntidadesAbstractas
             if (int.TryParse(dato, out int dniParseado))
                 return ValidarDNI(nacionalidad, dniParseado);
             else
-                throw new NacionalidadInvalidaException();
+                throw new DniInvalidoException();
         }
         private string ValidarNombreApellido(string dato)
         {
