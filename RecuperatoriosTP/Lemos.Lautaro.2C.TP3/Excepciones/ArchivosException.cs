@@ -8,6 +8,9 @@ namespace Excepciones
 {
     public class ArchivosException : Exception
     {
-        public ArchivosException(Exception innerException) : base("Error en manejo de archivos") { }
+        /// <summary>
+        /// Excepción que indica en su mensaje: "Error en manejo de archivos" y transmite la innerException
+        /// </summary>
+        public ArchivosException(Exception innerException) : base("Error en manejo de archivos", innerException) { }
     }
 }

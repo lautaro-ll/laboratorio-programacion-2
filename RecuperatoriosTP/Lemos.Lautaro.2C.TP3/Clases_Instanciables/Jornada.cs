@@ -82,6 +82,10 @@ namespace Clases_Instanciables
                 j.Alumnos.Add(a);
             return j;
         }
+        /// <summary>
+        /// Devuelve una cadena con los datos de Jornada
+        /// </summary>
+        /// <returns></returns>
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();

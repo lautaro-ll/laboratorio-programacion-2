@@ -12,6 +12,12 @@ namespace Archivos
     public class Xml<T> : IArchivo<T>
         where T : new()
     {
+        /// <summary>
+        /// Serializa un objeto y guarda los datos en un archivo xml.
+        /// </summary>
+        /// <param name="archivo">indica la ubicación del archivo a guardar</param>
+        /// <param name="datos">objeto a guardar</param>
+        /// <returns>true si pudo guardar correctamente, false si ocurre una excepcion</returns>
         public bool Guardar(string archivo, T datos)
         {
             XmlTextWriter writer = null;
@@ -35,6 +41,12 @@ namespace Archivos
                     writer.Close();
             }   
         }
+        /// <summary>
+        /// Lee un archivo xml y carga el objeto en una variable a retornar.
+        /// </summary>
+        /// <param name="archivo">indica la ubicación del archivo a leer</param>
+        /// <param name="datos">objeto donde se cargan datos leidos</param>
+        /// <returns>true si pudo leer correctamente, false si ocurre una excepcion</returns>
         public bool Leer(string archivo, out T datos)
         {
             XmlTextReader writer = null;
