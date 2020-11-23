@@ -118,7 +118,7 @@ namespace Lemos.Lautaro._2C.TP4
         {
             try
             {
-                if (!string.IsNullOrWhiteSpace(tbDescripcion.Text) && !string.IsNullOrWhiteSpace(tbPrecio.Text) && float.TryParse(tbPrecio.Text, out float precio))
+                if (!string.IsNullOrWhiteSpace(tbDescripcion.Text) && !string.IsNullOrWhiteSpace(tbPrecio.Text) && float.TryParse(tbPrecio.Text, out float precio) && precio > 0)
                 {
                     Producto producto = new Producto(tbDescripcion.Text.FormatearTexto(), precio, 0);
                     productoDAO.Guardar(producto);
