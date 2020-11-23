@@ -1,0 +1,2 @@
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\Lemos.Lautaro.2C.TP3\Clases_Abstractas\obj\Debug\Clases_Abstractas.csprojAssemblyReference.cache
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\Lemos.Lautaro.2C.TP3\Clases_Abstractas\obj\Debug\Clases_Abstractas.csproj.CoreCompileInputs.cache

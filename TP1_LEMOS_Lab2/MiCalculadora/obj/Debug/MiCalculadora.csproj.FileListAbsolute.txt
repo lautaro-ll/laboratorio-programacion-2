@@ -24,3 +24,16 @@ C:\Users\Lautaro\Google Drive\2020 - 2 Cuatrimestre\Laboratorio y Programación 
 C:\Users\Lautaro\Google Drive\2020 - 2 Cuatrimestre\Laboratorio y Programación II - 2C\C#\TP1_LEMOS_Lab2\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
 C:\Users\Lautaro\Google Drive\2020 - 2 Cuatrimestre\Laboratorio y Programación II - 2C\C#\TP1_LEMOS_Lab2\MiCalculadora\obj\Debug\MiCalculadora.exe
 C:\Users\Lautaro\Google Drive\2020 - 2 Cuatrimestre\Laboratorio y Programación II - 2C\C#\TP1_LEMOS_Lab2\MiCalculadora\obj\Debug\MiCalculadora.pdb
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\TP1_LEMOS_Lab2\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\TP1_LEMOS_Lab2\MiCalculadora\bin\Debug\MiCalculadora.exe
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\TP1_LEMOS_Lab2\MiCalculadora\bin\Debug\MiCalculadora.pdb
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\TP1_LEMOS_Lab2\MiCalculadora\bin\Debug\Entidades.dll
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\TP1_LEMOS_Lab2\MiCalculadora\bin\Debug\Entidades.pdb
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\TP1_LEMOS_Lab2\MiCalculadora\bin\Debug\Entidades.dll.config
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\TP1_LEMOS_Lab2\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\TP1_LEMOS_Lab2\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\TP1_LEMOS_Lab2\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\TP1_LEMOS_Lab2\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\TP1_LEMOS_Lab2\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\TP1_LEMOS_Lab2\MiCalculadora\obj\Debug\MiCalculadora.exe
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\TP1_LEMOS_Lab2\MiCalculadora\obj\Debug\MiCalculadora.pdb

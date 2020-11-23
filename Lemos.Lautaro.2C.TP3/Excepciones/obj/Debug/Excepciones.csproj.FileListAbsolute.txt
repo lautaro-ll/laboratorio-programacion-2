@@ -1,0 +1,2 @@
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\Lemos.Lautaro.2C.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\Lemos.Lautaro.2C.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache

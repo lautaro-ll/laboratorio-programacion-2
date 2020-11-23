@@ -5,3 +5,10 @@ C:\Users\Lautaro\source\repos\TP1_LEMOS_Lab2\Entidades\bin\Debug\Entidades.dll
 C:\Users\Lautaro\source\repos\TP1_LEMOS_Lab2\Entidades\bin\Debug\Entidades.pdb
 C:\Users\Lautaro\source\repos\TP1_LEMOS_Lab2\Entidades\obj\Debug\Entidades.dll
 C:\Users\Lautaro\source\repos\TP1_LEMOS_Lab2\Entidades\obj\Debug\Entidades.pdb
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\TP1_LEMOS_Lab2\Entidades\bin\Debug\Entidades.dll.config
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\TP1_LEMOS_Lab2\Entidades\bin\Debug\Entidades.dll
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\TP1_LEMOS_Lab2\Entidades\bin\Debug\Entidades.pdb
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\TP1_LEMOS_Lab2\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\TP1_LEMOS_Lab2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\TP1_LEMOS_Lab2\Entidades\obj\Debug\Entidades.dll
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\TP1_LEMOS_Lab2\Entidades\obj\Debug\Entidades.pdb

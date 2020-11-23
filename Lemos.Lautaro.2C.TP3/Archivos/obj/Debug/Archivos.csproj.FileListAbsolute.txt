@@ -1,0 +1,6 @@
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\Lemos.Lautaro.2C.TP3\Archivos\bin\Debug\Archivos.dll
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\Lemos.Lautaro.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\Lemos.Lautaro.2C.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\Lemos.Lautaro.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\Lemos.Lautaro.2C.TP3\Archivos\obj\Debug\Archivos.dll
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\Lemos.Lautaro.2C.TP3\Archivos\obj\Debug\Archivos.pdb
