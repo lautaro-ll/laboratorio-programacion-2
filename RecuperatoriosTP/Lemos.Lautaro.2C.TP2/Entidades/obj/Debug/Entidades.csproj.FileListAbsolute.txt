@@ -17,3 +17,9 @@ C:\Users\Lautaro\Google Drive\2020 - 2 Cuatrimestre\Laboratorio y Programación 
 C:\Users\Lautaro\Google Drive\2020 - 2 Cuatrimestre\Laboratorio y Programación II - 2C\Trabajos Prácticos\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Lautaro\Google Drive\2020 - 2 Cuatrimestre\Laboratorio y Programación II - 2C\Trabajos Prácticos\TP-02\Entidades\obj\Debug\Entidades.dll
 C:\Users\Lautaro\Google Drive\2020 - 2 Cuatrimestre\Laboratorio y Programación II - 2C\Trabajos Prácticos\TP-02\Entidades\obj\Debug\Entidades.pdb
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP2\Entidades\bin\Debug\Entidades.dll
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP2\Entidades\bin\Debug\Entidades.pdb
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP2\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP2\Entidades\obj\Debug\Entidades.dll
+E:\My Docs\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\Lemos.Lautaro.2C.TP2\Entidades\obj\Debug\Entidades.pdb

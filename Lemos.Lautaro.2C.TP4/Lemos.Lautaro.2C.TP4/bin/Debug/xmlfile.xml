@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCliente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cliente>
+    <RazonSocial>UNIVERSIDAD TECNOLOGICA NACIONAL</RazonSocial>
+    <Cuit>30546671166</Cuit>
+  </Cliente>
+  <Cliente>
+    <RazonSocial>MERCADOLIBRE S.R.L.</RazonSocial>
+    <Cuit>30703088534</Cuit>
+  </Cliente>
+  <Cliente>
+    <RazonSocial>GOOGLE ARGENTINA S.R.L.</RazonSocial>
+    <Cuit>33709585229</Cuit>
+  </Cliente>
+</ArrayOfCliente>

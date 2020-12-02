@@ -54,16 +54,32 @@ namespace Entidades
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendFormat("Tenemos {0} lugares ocupados de un total de {1} disponibles", taller.vehiculos.Count, taller.espacioDisponible);
-            sb.AppendLine("");
+            sb.AppendFormat("Tenemos {0} lugares ocupados de un total de {1} disponibles\n", taller.vehiculos.Count, taller.espacioDisponible);
             foreach (Vehiculo v in taller.vehiculos)
             {
                 //CORRECCION
-                sb.AppendLine(v.Mostrar());
+                switch (tipo)
+                {
+                    case ETipo.SUV:
+                        if (v is Suv)
+                            sb.AppendLine(v.Mostrar());
+                        break;
+                    case ETipo.Ciclomotor:
+                        if (v is Ciclomotor)
+                            sb.AppendLine(v.Mostrar());
+                        break;
+                    case ETipo.Sedan:
+                        if (v is Sedan)
+                            sb.AppendLine(v.Mostrar());
+                        break;
+                    default:
+                        sb.AppendLine(v.Mostrar());
+                        break;
+                }
                 //switch (tipo)
                 //{
                 //    case ETipo.SUV:
-                //        if (v is Suv)
+                //       if (v is Suv)
                 //            sb.AppendLine(((Suv)v).Mostrar());
                 //        break;
                 //    case ETipo.Ciclomotor:
